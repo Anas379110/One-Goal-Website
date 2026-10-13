@@ -1,20 +1,19 @@
-# One Goal — موقع أخبار وتحليلات رياضية
-**One Goal — Sports News & Analysis Platform** · التصنيف: موقع محتوى
-> ملف تعريفي بالمشروع ونطاقه؛ هذا المستودع يحتوي على التوثيق فقط ولا يتضمن الشفرة المصدرية.
+# One Goal — Sports News & Analysis Platform
+One Goal — Sports News & Analysis Platform · Category: Content website
 > Project overview and scope; this repository contains documentation only, not implementation source code.
 
-## نبذة عن المشروع
-موقع محتوى رياضي عربي يقدّم ملخصات مباريات وأخبار أندية وتحليلات، ضمن نطاق anasnet.com الفرعي.
+## Project summary
+An Arabic sports content website that provides match summaries, club news, and analyses, hosted under the anasnet.com subdomain.
 
-## أبرز النقاط
-- 30-50 مقالاً أصلياً على الأقل قبل الإطلاق، مع تحديث يومي للمحتوى
-- سرعة تحميل أقل من 3 ثوانٍ، متجاوب بالكامل، ومؤمّن بـ SSL على Cloudflare
-- متوافق مع سياسات AdSense وAdsterra وMonetag وZeydoo
+## Key highlights
+- 30-50 original articles at minimum before launch, with daily content updates
+- Page load time under 3 seconds, fully responsive, and secured with SSL on Cloudflare
+- Compliant with AdSense, Adsterra, Monetag, and Zeydoo policies
 
-## الدور
-تطوير موقع أخبار ومحتوى رياضي عربي وتجهيز تجربة النشر والأداء المتجاوبة.
+## Role
+Develop the Arabic sports news and content site and prepare the responsive publishing and performance experience.
 
-## التقنيات المستخدمة
+## Technologies used
 HTML/CSS/JS, Cloudflare Pages, SSL/HTTPS, SEO, AdSense
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
